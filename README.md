@@ -11,6 +11,8 @@
 #
 ### Real-Time Simulations
 
+![Simulation](https://github.com/user-attachments/assets/c187b7ba-f0a2-401e-8841-1f79901d8e72)
+
 To model a live simulation, start by defining the core components of the system, including the objects, entities, or agents that interact within the simulation environment. Decide on the properties and behaviors of each element, determining how they will interact with one another over time. For instance, in a traffic simulation, define vehicles, roads, traffic lights, and rules that govern movement. Break down the system into modules or functions that handle specific aspects of the simulation, such as collision detection, environment updates, or resource management. This modular approach enhances flexibility and maintainability, enabling you to adjust and scale the simulation more efficiently.
 
 Next, implement the simulation loop, which continuously updates the state of the environment based on the defined rules and the interactions of the objects. This loop typically consists of three main stages: input handling, state updating, and rendering. In the input handling phase, capture any external data or user inputs that may affect the simulation. The state updating phase calculates new positions, interactions, and changes within the system based on time steps or discrete events. Finally, the rendering phase visually displays the updated state to the user, allowing them to observe the progression in real-time. Optimizing the simulation loop and leveraging parallel processing, when applicable, helps ensure the simulation runs smoothly and can handle complex scenarios with many entities.
