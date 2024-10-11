@@ -25,6 +25,8 @@ Next, implement the simulation loop, which continuously updates the state of the
 [Python Interface Builder](https://chat.openai.com/g/g-2a5BMlXE9-python-interface-builder)
 <br>
 [Python Architect](https://chat.openai.com/g/g-ltK2f7Fkk-python-architect)
+<br>
+[Live Simulation](https://github.com/sourceduty/Live_Simulation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
